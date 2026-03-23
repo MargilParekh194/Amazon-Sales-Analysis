@@ -1,0 +1,1 @@
+In this project we analyz the behaviour of coustomers and churn customer analysis, by categorising customers into section based on purchase type, we analyz trending products, and some reasons of customer turnover. We mainly used Python for this project.
